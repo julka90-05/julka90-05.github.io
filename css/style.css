@@ -282,3 +282,28 @@ footer{
     font-size: 14px;
     text-align: right;
 }
+
+.article_5 .altaroma{
+    background: url('../images/altaroma3.png');
+    float: left;
+    width: 89px;
+    height: 190px;
+    margin-left: 12px;
+    margin-top: 26px;
+}
+
+.article_5 .article_title{
+    background: url('../images/article_5_title.png');
+    width: 163px;
+    height: 59px;
+    margin-left: 120px;
+    margin-top: 27px;
+}
+
+.article_5 .text_1{
+    color: #5b3715;
+    margin-top: 9px;
+    margin-left: 114px;
+    font-family: Arial;
+    font-size: 14px;
+}
