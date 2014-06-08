@@ -232,3 +232,53 @@ footer{
     margin-left: 10px;
     text-align:center;
 }
+
+.article_2 .altaroma{
+    background: url('../images/altaroma1.png');
+    float: left;
+    width: 110px;
+    height: 233px;
+    margin-top: 29px;
+    margin-left: 27px;
+}
+
+.article_2 .article_2_title{
+    background: url('../images/article_2_title.png');
+    width: 170px;
+    height: 70px;
+    margin-left: 169px;
+    margin-top: 57px;
+}
+
+.article_2 .text_1{
+    margin-left: 140px;
+    color: #5b3715;
+    margin-top: 16px;
+    font-family: Arial;
+}
+
+.article_3 .altaroma{
+    background: url('../images/altaroma2.png');
+    float: right;
+    width: 88px;
+    height: 188px;
+    margin-right: 20px;
+    margin-top: 32px;
+}
+
+.article_3 .article_title{
+    background: url('../images/article_3_title.png');
+    width: 142px;
+    height: 59px;
+    margin-left: 36px;
+    margin-top: 33px;
+}
+
+.article_3 .text_1{
+    color: #5b3715;
+    margin-top: 9px;
+    margin-right: 115px;
+    font-family: Arial;
+    font-size: 14px;
+    text-align: right;
+}
