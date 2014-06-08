@@ -195,10 +195,40 @@ footer{
     width: 171px;
     height: 61px;
     background: url('../images/new.png') no-repeat;
+    float: right;
+    margin-top: 30px;
+    margin-right: 46px;
+}
+
+.article_1 .video{
+    float: right;
+    clear: right;
+    width: 206px;
+    height: 144px;
+    background-color: #000;
+    margin-right: 14px;
+    margin-top: 17px;
 }
 
 .article_1 .stic{
     width: 219px;
     height: 43px;
     background: url('../images/stic.png') no-repeat;
+    margin-left: 15px;
+}
+
+.article_1 .text_1{
+    margin-top: 100px;
+    margin-left: 10px;
+    text-align:center;
+    font-size: 42px;
+    width: 219px;
+    font-family: Arial;
+}
+.article_1 .text_2{
+    font-size: 30px;
+    width: 219px;
+    font-family: Arial;
+    margin-left: 10px;
+    text-align:center;
 }
